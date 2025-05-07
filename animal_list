@@ -1,0 +1,34 @@
+{
+  "Mammals": [
+    "Lion", "Tiger", "Elephant", "Giraffe", "Zebra", "Leopard", "Cheetah",
+    "Gorilla", "Chimpanzee", "Orangutan", "Kangaroo", "Koala", "Bear", "Panda",
+    "Wolf", "Fox", "Deer", "Moose", "Bison", "Antelope", "Camel", "Llama",
+    "Sloth", "Armadillo", "Hyena", "Raccoon", "Skunk", "Otter", "Badger",
+    "Hedgehog", "Rabbit", "Hare", "Mouse", "Rat", "Squirrel", "Bat", "Dolphin",
+    "Whale", "Seal", "Walrus"
+  ],
+  "Birds": [
+    "Eagle", "Hawk", "Falcon", "Owl", "Parrot", "Macaw", "Pigeon", "Dove",
+    "Crow", "Raven", "Peacock", "Turkey", "Chicken", "Duck", "Goose",
+    "Flamingo", "Penguin", "Swan", "Heron", "Stork"
+  ],
+  "Reptiles": [
+    "Crocodile", "Alligator", "Lizard", "Gecko", "Chameleon", "Iguana",
+    "Turtle", "Tortoise", "Snake", "Python", "Boa", "Anole", "Monitor Lizard"
+  ],
+  "Amphibians": [
+    "Frog", "Toad", "Salamander", "Newt", "Axolotl"
+  ],
+  "Fish": [
+    "Shark", "Salmon", "Trout", "Carp", "Catfish", "Eel", "Tuna", "Clownfish",
+    "Goldfish", "Swordfish", "Seahorse", "Anglerfish"
+  ],
+  "Insects_And_Arthropods": [
+    "Butterfly", "Bee", "Wasp", "Ant", "Beetle", "Dragonfly", "Fly",
+    "Mosquito", "Moth", "Grasshopper", "Cricket", "Spider", "Scorpion",
+    "Centipede", "Millipede"
+  ],
+  "Others": [
+    "Jellyfish", "Octopus", "Squid", "Crab", "Lobster", "Starfish", "Coral"
+  ]
+}
